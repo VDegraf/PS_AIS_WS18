@@ -5,6 +5,4 @@ Untitled1-checkpoint.ipynb
 Untitled-checkpoint.ipynb 
 .ipynb_checkpoints 
 Data_raw/
-Data Preprocessing/reviews_filtert/reviews_Amazon_Instant_Video_5.csv
-Data Preprocessing/reviews_raw/reviews_Amazon_Instant_Video_5.json.gz
-Data_filtert/
+Data_filtered/
