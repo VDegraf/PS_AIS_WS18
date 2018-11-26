@@ -2,6 +2,15 @@
     "sample":{
         "fix_size":"10000",
         "frac":"0.1"
+    },
+    "label_three":{
+        "bins":[0,2,3,5],
+        "labels":["schlecht", "neutral", "positiv"]
+    },
+    "label_two":{
+        "bins":[0,3,5],
+        "labels":["negativ", "positiv"]
     }
     
 }
+
